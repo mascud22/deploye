@@ -1,4 +1,4 @@
-import { BriefcaseIcon } from '@heroicons/react/16/solid'
+import { BriefcaseIcon } from '@heroicons/react/24/solid'
 import React from 'react'
 
 const App = () => {
